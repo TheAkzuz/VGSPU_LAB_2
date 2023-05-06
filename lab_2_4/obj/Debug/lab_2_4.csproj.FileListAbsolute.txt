@@ -1,0 +1,5 @@
+C:\Users\The_Akzuz\Desktop\lab_2_4\lab_2_4\bin\Debug\lab_2_4.exe.config
+C:\Users\The_Akzuz\Desktop\lab_2_4\lab_2_4\bin\Debug\lab_2_4.exe
+C:\Users\The_Akzuz\Desktop\lab_2_4\lab_2_4\bin\Debug\lab_2_4.pdb
+C:\Users\The_Akzuz\Desktop\lab_2_4\lab_2_4\obj\Debug\lab_2_4.exe
+C:\Users\The_Akzuz\Desktop\lab_2_4\lab_2_4\obj\Debug\lab_2_4.pdb
